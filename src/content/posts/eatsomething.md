@@ -4,7 +4,7 @@ published: 2025-10-22
 description: '未来打算吃什么喵？~'
 image: ''
 tags: ["eat","life"]
-category: ''
+category: 'Life'
 draft: false 
 lang: ''
 ---

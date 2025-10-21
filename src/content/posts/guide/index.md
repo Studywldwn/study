@@ -1,5 +1,5 @@
 ---
-title: 你好，我是万象辉夜
+title: 你好，我是辉夜
 published: 2025-10-21
 description: "为什么我又开了个个人blog，是找虐吗？"
 image: "./cover.jpeg"

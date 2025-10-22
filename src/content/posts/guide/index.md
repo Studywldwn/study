@@ -4,7 +4,7 @@ published: 2025-10-21
 description: "为什么我又开了个个人blog，是找虐吗？"
 image: "./cover.jpeg"
 tags: ["Fuwari", "Blogging", "辉夜的自我介绍"]
-category: blog
+category: '日常'
 draft: false
 ---
 

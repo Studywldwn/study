@@ -4,7 +4,7 @@ published: 2025-10-21
 description: '通过终端来登录以及登出，方便切换git账号以切换变更提交（后续建议用SSH解决）'
 image: ''
 tags: ["Vscode","Github","HuiyeStudy"]
-category: 'HuiyeStudy'
+category: '学习'
 draft: false 
 lang: ''
 ---
